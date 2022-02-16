@@ -1,4 +1,4 @@
-'''mermaid
- graph TD;
+```mermaid
+  graph TD;
     foo --> bar
-'''
+```
